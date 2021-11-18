@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caiqueravpp
 - 👀 I’m interested in be the best developer possible.
-- 🌱 I’m currently learning Typescript and Cucumber.
+- 🌱 I’m currently learning Javascript and tests automation.
 - 📫 How to reach me: caiquerantc@gmail.com
 
 <!---
